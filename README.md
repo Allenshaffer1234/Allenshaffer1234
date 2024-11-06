@@ -5,7 +5,7 @@
 - 📫 How to reach me ... discord: allenshaffer1234
 - ⚡ Fun fact: ...
 
-- https://www.txadmin.detriodroleplay.com
+- https://txadmin.detriodroleplay.com/login
 
 <!---
 Allenshaffer1234/Allenshaffer1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
